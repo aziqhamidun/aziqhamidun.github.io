@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Leckerli One
-- Font Author: Copyright (c) 2011 Gesine Todt (www.gesine-todt.de), with Reserved Font Names "Leckerli"
-- Font Source: http://fonts.gstatic.com/s/leckerlione/v16/V8mCoQH8VCsNttEnxnGQ-1itLZxcBtItFw.ttf
+- Font Title: Source Code Pro
+- Font Author: © 2010 - 2020 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name ‘Source’.
+- Font Source: http://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXhM5hTXUcdJg.ttf
 - Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
